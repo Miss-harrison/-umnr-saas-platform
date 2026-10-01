@@ -52,7 +52,16 @@ Requirements are tracked using unique identifiers to maintain traceability from 
 **Documentation & Technical Planning**
 
 The repository represents the requirements and project-planning stage of the product development lifecycle.
+## Product Screenshots
 
+### Talent Directory
+![UMNR Talent Directory](assets/16df09b5-5e6d-4b1d-8309-9d4c46d27ee3.jpeg)
+
+### Bookings
+![UMNR Bookings](assets/fd224899-71b6-4e8b-a725-86fdf24920a2.jpeg)
+
+### Calendar
+![UMNR Calendar](assets/22f7b451-c87e-43a3-94ce-c1041b3e5bbb.jpeg)
 ---
 
 *Portfolio case study demonstrating technical writing and technical project management practices.*
